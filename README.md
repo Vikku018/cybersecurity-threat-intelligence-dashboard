@@ -282,8 +282,8 @@ Cybersecurity-Threat-Intelligence-Dashboard/
 ##### Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 ##### Connect With Me
-##### LinkedIn: (Add LinkedIn Profile URL)
-##### GitHub: (Add GitHub Profile URL)
+##### LinkedIn: [(Add LinkedIn Profile URL)](https://www.linkedin.com/in/vikku-kumar/)
+##### GitHub: [(Add GitHub Profile URL)](https://github.com/Vikku018)
 #### ⭐ Support
 
 If you found this project useful, please consider giving it a Star ⭐ on GitHub.
