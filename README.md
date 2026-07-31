@@ -29,7 +29,7 @@ Add your dashboard screenshot below after uploading it to GitHub.
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 📈 Executive KPIs
-> ### KPI	Value
+### KPI	Value
 Total Cyber Attacks	3,000
 Total Affected Users	1.53 Billion
 Total Financial Loss	$412.51K Million
@@ -85,12 +85,12 @@ The rapid increase highlights the growing sophistication and frequency of cyber 
 Organizations should strengthen cybersecurity monitoring and incident response capabilities.
 
 ### 2. IT Industry Is the Most Targeted Sector
-Industry	              Total Attacks
-IT	                      453
-Banking	                  411
-Healthcare	              402
-Education	                398
-Retail	                  394
+> Industry	              Total Attacks
+> IT	                      453
+> Banking	                  411
+> Healthcare	              402
+> Education	                398
+> Retail	                  394
 
 #### Insight
 
