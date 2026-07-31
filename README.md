@@ -85,12 +85,13 @@ The rapid increase highlights the growing sophistication and frequency of cyber 
 Organizations should strengthen cybersecurity monitoring and incident response capabilities.
 
 ### 2. IT Industry Is the Most Targeted Sector
-> Industry	              Total Attacks
-> IT	                      453
-> Banking	                  411
-> Healthcare	              402
-> Education	                398
-> Retail	                  394
+| Industry | Total Attacks |
+|----------|--------------:|
+| IT | 453 |
+| Banking | 411 |
+| Healthcare | 402 |
+| Education | 398 |
+| Retail | 394 |
 
 #### Insight
 
@@ -101,12 +102,13 @@ Industries handling sensitive customer and financial data remain prime targets f
 High-risk industries should prioritize continuous security monitoring and advanced threat detection.
 
 ### 3. Retail Industry Recorded the Highest Financial Loss
-Industry	Financial Loss ($M)
-Retail	72
-Government	57
-IT	55
-Telecommunications	55
-Healthcare	54
+| Industry | Financial Loss ($M) |
+|----------|--------------------:|
+| Retail | 72 |
+| Government | 57 |
+| IT | 55 |
+| Telecommunications | 55 |
+| Healthcare | 54 |
 #### Insight
 
 Cybersecurity incidents significantly impact organizational profitability and operational continuity.
@@ -116,11 +118,12 @@ Cybersecurity incidents significantly impact organizational profitability and op
 Invest in cybersecurity risk management and business continuity planning.
 
 ### 4. Zero-Day Vulnerabilities Represent the Largest Risk
-Vulnerability Type	Incidents
-Zero-Day	732
-Social Engineering	698
-Unpatched Software	696
-Weak Passwords	686
+| Vulnerability Type | Incidents |
+|--------------------|----------:|
+| Zero-Day | 732 |
+| Social Engineering | 698 |
+| Unpatched Software | 696 |
+| Weak Passwords | 686 |
 #### Insight
 
 Zero-Day vulnerabilities continue to be heavily exploited by cybercriminals.
@@ -212,12 +215,13 @@ Vulnerability Analysis
 Trend Analysis
 
 ## 🛠️ Tools & Technologies
-Tool	Purpose
-Power BI	Dashboard Development
-Power Query	Data Transformation
-DAX	KPI & Measure Creation
-Excel	Data Source
-Data Modeling	Relationship Management
+| Tool | Purpose |
+|------|---------|
+| **Power BI** | Dashboard Development |
+| **Power Query** | Data Transformation and Data Cleaning |
+| **DAX (Data Analysis Expressions)** | KPI and Measure Creation |
+| **Microsoft Excel** | Data Source |
+| **Data Modeling** | Relationship Management and Data Modeling |
 ## 📂 Dataset Information
 
 The dataset includes cybersecurity incidents recorded globally between 2015 and 2024.
