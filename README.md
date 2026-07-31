@@ -255,14 +255,15 @@ Data Storytelling
 Insight Generation
 
 ## 📁 Repository Structure
+```text
 Cybersecurity-Threat-Intelligence-Dashboard/
 │
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard_Screenshot.png
-├── Cybersecurity_Insights_Report.pdf
-├── README.md
-└── Assets/
+├── Dashboard.pbix                     # Power BI dashboard file
+├── Dataset.xlsx                       # Source dataset
+├── Dashboard_Screenshot.png           # Dashboard preview
+├── Cybersecurity_Insights_Report.pdf  # Project report
+├── README.md                          # Project documentation
+```
 ## 📌 Project Outcomes
 
 ✅ Identified high-risk industries targeted by cybercriminals.
