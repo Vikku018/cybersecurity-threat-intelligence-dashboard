@@ -72,6 +72,10 @@ Target Industry
 Security Vulnerability
 
 ## 🔍 Key Business Insights
+
+![Uploading {176A4AA5-09E6-4907-B532-07666505D3AC}.png…]()
+
+
 ### 1. Cyber Attacks Peaked in 2020
 
 The highest number of cyber attacks occurred in 2020, with 534 reported incidents.
