@@ -264,6 +264,7 @@ Cybersecurity-Threat-Intelligence-Dashboard/
 ├── Dashboard.pbix                     # Power BI dashboard file
 ├── Dataset.xlsx                       # Source dataset
 ├── Dashboard_Screenshot.png           # Dashboard preview
+├── Insights_Dashboard.png             # Project report overview
 ├── Cybersecurity_Insights_Report.pdf  # Project report
 ├── README.md                          # Project documentation
 ```
@@ -285,6 +286,8 @@ Cybersecurity-Threat-Intelligence-Dashboard/
 ##### Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 ##### Connect With Me
+##### Phone no : 7004217083
+##### Gmail : vikku.kr98@gmail.com
 ##### LinkedIn: [(Connect With LinkedIn)](https://www.linkedin.com/in/vikku-kumar/)
 ##### GitHub: [(Connect With GitHub)](https://github.com/Vikku018)
 
