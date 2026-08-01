@@ -24,8 +24,6 @@ This dashboard addresses these challenges through interactive visualizations and
 ## 📊 Dashboard Preview
 Main Dashboard
 
-Add your dashboard screenshot below after uploading it to GitHub.
-
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 📈 Executive KPIs
@@ -73,7 +71,8 @@ Security Vulnerability
 
 ## 🔍 Key Business Insights
 
-![Uploading {176A4AA5-09E6-4907-B532-07666505D3AC}.png…]()
+<img width="1374" height="745" alt="{176A4AA5-09E6-4907-B532-07666505D3AC}" src="https://github.com/user-attachments/assets/5bab5b16-f6c5-48c0-bde6-209fe99b11d5" />
+
 
 
 ### 1. Cyber Attacks Peaked in 2020
