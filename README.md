@@ -10,7 +10,7 @@ The objective of this project is to transform cybersecurity incident data into a
 
 Cyber attacks continue to grow in frequency and complexity, causing substantial financial losses and operational disruptions across industries.
 
-Organizations require a centralized reporting solution to:
+#### Organizations require a centralized reporting solution to:
 
 Monitor cyber attack trends over time
 Identify industries most vulnerable to attacks
